@@ -1,0 +1,90 @@
+# Entornos virtuales
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de entorno
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Archivos de datos grandes (opcional - descomenta si no quieres subir los modelos)
+# *.h5
+# *.hdf5
+# *.pkl
+# *.pickle
+
+# Archivos de TensorFlow
+*.ckpt
+*.pb
+saved_model/
+
+# Archivos de configuración local
+config.local.py
+settings.local.py
+
+# Archivos de caché
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.old 
