@@ -45,7 +45,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Python con una in
 - **Modo oscuro/claro:** Puedes alternar entre ambos modos para mayor comodidad visual.
 
 ## Créditos
-Desarrollado por [Tu Nombre].
+Desarrollado por [fret3k].
 
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT. 
