@@ -43,6 +43,7 @@ pip-delete-this-directory.txt
 *.swp
 *.swo
 *~
+version_final/
 
 # Archivos del sistema
 .DS_Store
